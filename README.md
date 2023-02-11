@@ -5,6 +5,7 @@ untuk kemanan biar hanya orang tertentu kamu bisa menambahkan .htaccess yang dik
 <ul>
 <li>Xampp 8.0.25 / PHP 8.0.25 : https://www.apachefriends.org/download.html</li>
 <li>Visual Studio Code : https://code.visualstudio.com/</li>
+<li>Hosting : https://panel.niagahoster.co.id/ref/400014?r=hosting-murah</li>
 </ul>
 
 <h3>Tambahkan Code Ke .htaccess</h3>
