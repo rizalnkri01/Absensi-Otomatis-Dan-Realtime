@@ -7,5 +7,10 @@ untuk kemanan biar hanya orang tertentu kamu bisa menambahkan .htaccess yang dik
 <li>Visual Studio Code : https://code.visualstudio.com/</li>
 </ul>
 
+<h3>Tambahkan Code Ke .htaccess</h3>
+Order Deny,Allow<br>
+Deny from all<br>
+Allow from GantiDenganAlamatIPAnda<br>
+
 <h3>Dukungan</h3>
 Trakteer Saya = https://trakteer.id/rizalnkri/tip
